@@ -11,5 +11,5 @@ Sample my [code](https://gist.github.com/shravantibn/417e2f8f9cff769cf40971805fc
 ##Cloab Demo
 #This is the [notebook](https://github.com/shravantibn/Discussion-Tech/blob/main/tech_doc.ipynb)
 
-##Image [issue](![image](https://user-images.githubusercontent.com/43784381/186690770-73234ec7-f2e2-4a21-bebf-ad8deb77e36f.png)
-)
+##Image ![image](https://user-images.githubusercontent.com/43784381/186690770-73234ec7-f2e2-4a21-bebf-ad8deb77e36f.png)
+
