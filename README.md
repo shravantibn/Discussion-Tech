@@ -6,7 +6,7 @@ This is demo repo for sharing ideas
 ###### The smallest heading
 
 ##Gist Demo example
-https://gist.github.com/shravantibn/417e2f8f9cff769cf40971805fca5218
+Sample my [code](https://gist.github.com/shravantibn/417e2f8f9cff769cf40971805fca5218)
 
 ##Cloab Demo
 #This is the [notebook](https://github.com/shravantibn/Discussion-Tech/blob/main/tech_doc.ipynb)
